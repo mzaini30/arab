@@ -27,7 +27,7 @@ h1 {
 
 @font-face {
 	font-family: kufi;
-	src: url("font/DroidKufi-Regular.ttf");
+	src: url("font/ae_AlBattar.ttf");
 }
 .kufi {
 	font-family: kufi;
@@ -51,7 +51,7 @@ h1 {
 
 @font-face {
 	font-family: farisi;
-	src: url("font/mcs_jf2.TTF");
+	src: url("font/Frsspbl.ttf");
 }
 .farisi {
 	font-family: farisi;
