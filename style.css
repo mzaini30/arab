@@ -48,3 +48,19 @@ h1 {
 .raihani {
 	font-family: raihani;
 }
+
+@font-face {
+	font-family: tsuluts;
+	src: url("font/Diwanltr.ttf");
+}
+.tsuluts {
+	font-family: tsuluts;
+}
+
+@font-face {
+	font-family: farisi;
+	src: url("font/Diwanltr.ttf");
+}
+.farisi {
+	font-family: farisi;
+}
