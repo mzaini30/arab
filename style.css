@@ -18,6 +18,14 @@ h1 {
 }
 
 @font-face {
+	font-family: riqah;
+	src: url("font/UthmanicHafs1 Ver09.otf");
+}
+.riqah {
+	font-family: riqah;
+}
+
+@font-face {
 	font-family: diwani;
 	src: url("font/Diwanltr.ttf");
 }
