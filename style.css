@@ -27,7 +27,7 @@ h1 {
 
 @font-face {
 	font-family: kufi;
-	src: url("font/ae_Sharjah.ttf");
+	src: url("font/DroidKufi-Regular.ttf");
 }
 .kufi {
 	font-family: kufi;
@@ -42,16 +42,8 @@ h1 {
 }
 
 @font-face {
-	font-family: raihani;
-	src: url("font/Diwanltr.ttf");
-}
-.raihani {
-	font-family: raihani;
-}
-
-@font-face {
 	font-family: tsuluts;
-	src: url("font/Diwanltr.ttf");
+	src: url("font/Khat Thuluth.TTF");
 }
 .tsuluts {
 	font-family: tsuluts;
@@ -59,7 +51,7 @@ h1 {
 
 @font-face {
 	font-family: farisi;
-	src: url("font/Diwanltr.ttf");
+	src: url("font/mcs_jf2.TTF");
 }
 .farisi {
 	font-family: farisi;
