@@ -19,10 +19,18 @@ h1 {
 
 @font-face {
 	font-family: riqah;
-	src: url("font/UthmanicHafs1 Ver09.otf");
+	src: url("font/BArabics.ttf");
 }
 .riqah {
 	font-family: riqah;
+}
+
+@font-face {
+	font-family: kufi;
+	src: url("font/BArabics.ttf");
+}
+.kufi {
+	font-family: kufi;
 }
 
 @font-face {
