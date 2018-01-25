@@ -27,7 +27,7 @@ h1 {
 
 @font-face {
 	font-family: kufi;
-	src: url("font/51ARSUN.TTF");
+	src: url("font/ae_Sharjah.ttf");
 }
 .kufi {
 	font-family: kufi;
@@ -39,4 +39,12 @@ h1 {
 }
 .diwani {
 	font-family: diwani;
+}
+
+@font-face {
+	font-family: raihani;
+	src: url("font/Diwanltr.ttf");
+}
+.raihani {
+	font-family: raihani;
 }
