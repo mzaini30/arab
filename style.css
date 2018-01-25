@@ -18,9 +18,9 @@ h1 {
 }
 
 @font-face {
-	font-family: riqah;
+	font-family: diwani;
 	src: url("font/UthmanicHafs1 Ver09.otf");
 }
-.naskhi {
-	font-family: riqah;
+.diwani {
+	font-family: diwani;
 }
