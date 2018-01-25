@@ -4,9 +4,9 @@ h1 {
 }
 
 @font-face {
-	font-family: pamega-demo;
-	src: url("font/pamega-demo.ttf");
+	font-family: naskhi;
+	src: url("font/Urdu_Khat-e-Naqsh.ttf");
 }
 .hasil h1:nth-child(1) {
-	font-family: pamega-demo;
+	font-family: naskhi;
 }
