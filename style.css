@@ -7,6 +7,6 @@ h1 {
 	font-family: naskhi;
 	src: url("font/Urdu_Khat-e-Naqsh.ttf");
 }
-.hasil h1:nth-child(1) {
+.naskhi {
 	font-family: naskhi;
 }
